@@ -1,3 +1,3 @@
-# wev lab 3
+# web lab 3
 
 NodeJS is needed
