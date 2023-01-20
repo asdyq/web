@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Толстяк</name>
+        <price>14 000 крышек</price>
+        <description>Пушка, ракета, торпеда, петарда</description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Комплект силовой брони</name>
+        <price>90 000 крышек</price>
+        <description>Ты допустишь потерю дорогостоющего обсундирования ведь его стоимость будет вычтена из твоего жалования и вы будете служить пока вам не исполнится 510 лет !!!!</description>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Третий товар название не придумано</name>
+        <price>75 Руб.</price>
+        <description>Купи купи купи купи</description>
+    </product>
+</products>
